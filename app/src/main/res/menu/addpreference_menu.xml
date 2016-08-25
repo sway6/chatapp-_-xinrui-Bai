@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/peer_name"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="PEERS">
+    </item>
+    <item
+        android:id="@+id/chatroom_setting"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="ROOM_SETTING">
+    </item>
+    <item
+        android:id="@+id/message_sending"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="MESSAGE_SENDING">
+    </item>
+</menu>
