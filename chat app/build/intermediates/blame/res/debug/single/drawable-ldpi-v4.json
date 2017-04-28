@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/baixinrui/Documents/522/522 Assignment11 hand in/Assignment11 chatapp _ xinrui Bai/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/icon.png",
+        "source": "/Users/baixinrui/Documents/522/522 Assignment11 hand in/Assignment11 chatapp _ xinrui Bai/app/build/intermediates/exploded-aar/net.zetetic/android-database-sqlcipher/3.3.1-1/res/drawable-ldpi/icon.png"
+    },
+    {
+        "merged": "/Users/dduggan/Documents/Teach/CS522/Classes/2016-Spring/Assignments/Assignment2-Code/Chat-Client-Oneway/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_launcher.png",
+        "source": "/Users/dduggan/Documents/Teach/CS522/Classes/2016-Spring/Assignments/Assignment2-Code/Chat-Client-Oneway/app/src/main/res/drawable-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/baixinrui/Documents/522/522 Assignment2/Chat-Client-Oneway/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_launcher.png",
+        "source": "/Users/baixinrui/Documents/522/522 Assignment2/Chat-Client-Oneway/app/src/main/res/drawable-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/baixinrui/Documents/522/522 Assignment7 hand in/Assignment7 Cloud Chat App - xinrui Bai 10404892/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_launcher.png",
+        "source": "/Users/baixinrui/Documents/522/522 Assignment7 hand in/Assignment7 Cloud Chat App - xinrui Bai 10404892/app/src/main/res/drawable-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/baixinrui/Documents/522/522 Assignment11 hand in/Assignment11 chatapp _ xinrui Bai/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_launcher.png",
+        "source": "/Users/baixinrui/Documents/522/522 Assignment11 hand in/Assignment11 chatapp _ xinrui Bai/app/src/main/res/drawable-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/baixinrui/Documents/522/522 Assignment7 hand in/Assignment7 Cloud Chat App - xinrui Bai 10404892/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/icon.png",
+        "source": "/Users/baixinrui/Documents/522/522 Assignment7 hand in/Assignment7 Cloud Chat App - xinrui Bai 10404892/app/build/intermediates/exploded-aar/net.zetetic/android-database-sqlcipher/3.3.1-1/res/drawable-ldpi/icon.png"
+    }
+]
