@@ -27,11 +27,11 @@ This project includes two parts, **Server** and **Let's Chat app**
 
 **Let's Chat** contains two parts, Front-end and Back-end
 
-Front-end: designed layout and icon to create a new chatting room, send messages, read the message record, show the position of every user.
+Front-end: designed layout and icon to create new chatting rooms, send messages, read the message record, show the position of every user.
 
-Back-end, designed SQLite database to store the information of our user, implemented RESTful frame to send **Http Requests** and Receive **Http Response**
+Back-end: designed SQLite database to store the information of our user, implemented RESTful frame to send **Http Requests** and Receive **Http Response**
 
-till now, the server and Let's Chat itself has already finished but I have not deploy it on the internet, you can try it if you are interested in my app~
+Till now, the server and Let's Chat itself has already finished but I have not deploy it on the internet, you can try it if you are interested in my app~
 
 <a name="使用说明"></a>
 ## Instructions For Use
