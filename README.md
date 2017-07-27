@@ -31,7 +31,7 @@ Front-end: designed layout and icon to create a new chatting room, send messages
 
 Back-end, designed SQLite database to store the information of our user, implemented RESTful frame to send **Http Requests** and Receive **Http Response**
 
-tile now, the server and Let's Chat itself has already finished but I have not deploy it on the internet, you can try it if you are interested in my app~
+till now, the server and Let's Chat itself has already finished but I have not deploy it on the internet, you can try it if you are interested in my app~
 
 <a name="使用说明"></a>
 ## Instructions For Use
