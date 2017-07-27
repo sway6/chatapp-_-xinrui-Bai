@@ -1,32 +1,67 @@
-Chat-App
+# Let's Chat
 
-Navigation(chatroom) pane and messages pane in landscape mode, chartroom list followed by message pane in portrait mode
-created manager model wrapped with AsyncContentResolver ,read and write data asynchronously
-Pre-requisites
+![Shurnim icon](https://cdn-images-1.medium.com/max/1600/1*inIeqlR93-c49SBshOC2nQ.png)
 
-Android SDK v25
-Android Build Tools v25.0.0
-Android Support Repository v25.3.1
-Getting Started
+## Directory
+* [Background Introduction](#背景介绍)
+* [Project Introduction](#项目介绍)
+* [Instructions For Use](#使用说明)
+  * [get the source code](#获取代码)
+  * [connect to the server](#开发插件)
+  * [screen shot of Let's Chat](#使用ShurnimStorage接口)
+* [Others](#其他)
 
-This sample uses the Gradle build system. To build this project, use the "gradlew build" command or use "Import Project" in Android Studio.
-using Chat-Server.jar to set up the backend Service for store user and message data.
-Built With
+<a name="背景介绍"></a>
+## Background Introduction
 
-Glide - An image loading and caching library
-Butterknife - Field and method binding for Android views
-Author
+*"Let's Chat"*，is the name of my chat app which is developed for my friends in Stevens Institute of Technology<br/>
 
-xinrui Bai
+<a name="项目介绍"></a>
+## Projecte Introduction
 
-Support
+*"let's chat"* is designed for a class of Stevens Institute of Technology, can be used under the campus wifi. The main aim to develop this app is to finish a real android app and understand **Http Requests** and **Http Response** more clearly  <br>
 
-Google+ Community: https://plus.google.com/communities/105153134372062985968
-Stack Overflow: http://stackoverflow.com/questions/tagged/android
-License
+This project includes two parts, **Server** and **Let's Chat app**
 
-Copyright 2016 The Android Open Source Project, Inc. jzhou Licensed to the Apache Software Foundation (ASF) under one or more contributor license agreements. See the NOTICE file distributed with this work for additional information regarding copyright ownership. The ASF licenses this file to you under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
+**Server** is used to receive Https Requests and give response to the app.
 
-http://www.apache.org/licenses/LICENSE-2.0
+**let's Chat** contains the front-end and back-end, 
 
-Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
+Front-end: designed layout and icon to create a new chatting room, send messages, read the message record, show the position of every user.
+
+Back-end, designed SQLite database to store the information of our user, implemented RESTful frame to send **Http Requests** and Receive **Http Response**
+
+tile now, the server and Let's Chat itself has already finished but I have not deploy it on the internet, you can try it if you are interested in my app~
+
+<a name="使用说明"></a>
+## Instructions For Use
+
+<a name="获取代码"></a>
+### get the source code
+
+* github: <https://github.com/sway6/chatapp-_-xinrui-Bai>
+
+   
+<a name="开发插件"></a>
+### connect to the server
+
+* server:<https://drive.google.com/drive/folders/0ByLb8mUVh1HHRjhXMkF6WDdjWTQ?usp=sharing>
+
+The server is a **.jar** file, you should run it on the terminal.
+
+
+   
+<a name="使用ShurnimStorage接口"></a>
+### screen shot of Let's Chat
+
+<https://youtu.be/mTqSFi1etgY>
+
+<a name="其他"></a>
+## Others
+It's my pleasure to share my opinion and receive suggestions from you.
+
+By the way, I am a new graduate student major in computer science. Now looking for an entry level Software Engineer position.
+
+if you have suggestions about the app or working chance, please contact me
+
+* Email: <bxrbaixinrui@gmail.com>
