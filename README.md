@@ -25,7 +25,7 @@ This project includes two parts, **Server** and **Let's Chat app**
 
 **Server** is used to receive Https Requests and give response to the app.
 
-**let's Chat** contains the front-end and back-end, 
+**let's Chat** contains two parts, Front-end and Back-end
 
 Front-end: designed layout and icon to create a new chatting room, send messages, read the message record, show the position of every user.
 
