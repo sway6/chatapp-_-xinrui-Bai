@@ -45,7 +45,7 @@ Till now, the server and Let's Chat itself has already finished but I have not d
 <a name="开发插件"></a>
 ### connect to the server
 
-* server:<https://drive.google.com/drive/folders/0ByLb8mUVh1HHRjhXMkF6WDdjWTQ?usp=sharing>
+* server: <https://drive.google.com/drive/folders/0ByLb8mUVh1HHRjhXMkF6WDdjWTQ?usp=sharing>
 
 The server is a **.jar** file, you should run it on the terminal.
 
