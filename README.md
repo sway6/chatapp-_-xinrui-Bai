@@ -17,7 +17,7 @@
 *"Let's Chat"*，is the name of my chat app which is developed for my friends in Stevens Institute of Technology<br/>
 
 <a name="项目介绍"></a>
-## Projecte Introduction
+## Project Introduction
 
 *"Let's Chat"* is designed for a class of Stevens Institute of Technology, can be used under the campus wifi. The main aim to develop this app is to finish a real android app and understand **Http Requests** and **Http Response** more clearly  <br>
 
